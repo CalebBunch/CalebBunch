@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CalebBunch
-- 👀 I’m interested in computers and i love programming.
-- 🌱 I’m currently learning python and C, among other things.
+- Hi, I’m @CalebBunch
+- I’m interested in computers and i love programming.
+- I’m currently learning python and C, and Docker.
 
 
 <!---
