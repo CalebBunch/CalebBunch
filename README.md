@@ -1,6 +1,5 @@
 - Hi, I’m @CalebBunch
 - I’m interested in computers and i love programming and math.
-- I’m currently learning rust.
 
 
 <!---
