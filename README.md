@@ -1,5 +1,5 @@
 - Hi, I’m @CalebBunch
-- I’m interested in computers and i love programming and math.
+- I’m interested in computers and I love programming and math.
 
 
 <!---
