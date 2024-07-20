@@ -1,5 +1,6 @@
 - Hi, I’m @CalebBunch
-- I’m interested in computers and I love programming and mathematics.
+- I am a Computer Science student at the Georgia Institute of Technology. 
+- I love programming and mathematics.
 
 
 <!---
