@@ -1,5 +1,5 @@
 - Hi, I’m @CalebBunch
-- I am a Computer Science student at the Georgia Institute of Technology. 
+- I am a Computer Science and Math double major at the Georgia Institute of Technology. 
 - I love programming and mathematics.
 
 
