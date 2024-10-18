@@ -1,6 +1,6 @@
 - Hi, I’m @CalebBunch
-- I am a Computer Science and Math double major at the Georgia Institute of Technology. 
-- I love building software.
+- I am a computer science and mathematics double major at the Georgia Institute of Technology
+- I love building software
 
 
 <!---
